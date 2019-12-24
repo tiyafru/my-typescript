@@ -1,19 +1,22 @@
 {
-  "name": "my-typescript-tiyafru",
+  "name": "tiyafru-my-typescript",
   "version": "1.0.0",
   "description": "this is a button component to try",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiyafru/my-typescript-tiyafru.git"
+    "url": "git+https://github.com/tiyafru/my-typescript.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tiyafru/my-typescript-tiyafru/issues"
+    "url": "https://github.com/tiyafru/my-typescript/issues"
   },
-  "homepage": "https://github.com/tiyafru/my-typescript-tiyafru#readme"
+  "homepage": "https://github.com/tiyafru/my-typescript#readme",
+  "dependencies": {
+    "@material-ui/icons": "^4.5.1"
+  }
 }
