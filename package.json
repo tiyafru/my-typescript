@@ -1,6 +1,6 @@
 {
-  "name": "tiyaa-my-typescript",
-  "version": "1.0.0",
+  "name": "my-typescript-tiyafru",
+  "version": "2.0.0",
   "description": "this is a button component to try",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,7 @@
   "homepage": "https://github.com/tiyafru/my-typescript#readme",
   "dependencies": {
     "@material-ui/icons": "^4.5.1"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
