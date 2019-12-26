@@ -7,7 +7,7 @@ interface StyleProps {
   
 }
 
-export const ButtonSolid = 
+export const ButtonSolidSec = 
   withStyles({
       root: (props: StyleProps) => ({
           textTransform: 'none',
@@ -19,7 +19,7 @@ export const ButtonSolid =
     })
 })(Button);
 
-export const ButtonPale = 
+export const ButtonPaleSec = 
   withStyles({
       root: (props: StyleProps) => ({
           textTransform: 'none',
@@ -31,7 +31,7 @@ export const ButtonPale =
     })
 })(Button);
 
-export const ButtonReverse = 
+export const ButtonReverseSec = 
   withStyles({
           root: (props: StyleProps) => ({
           textTransform: 'none',
